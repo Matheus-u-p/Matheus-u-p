@@ -1,7 +1,7 @@
-## Olá Pessoal! Tec.Informática Camilli Honorato 👋
+## Matheus Uggioni Possamai
 
-- 👩‍💻 Aluna no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado às meus códigos de Linguagem de Programação, Lógica de Programação.
+- 👩‍💻 Aluno no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 💻 Perfil destinado às meus códigos de Linguagem de Programação, Lógica de Programação, etc.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-u-p-TI&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-u-p-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,8 +18,8 @@
  <br><br>
  
 <div> 
-  <a href="https://www.instagram.com/alexsanderspritze](https://www.instagram.com/matheus_uggioni_possamai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/matheus_uggioni_possamai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusupossamai20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilli-vit%C3%B3ria-salvaro-honorato-b41556307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/matheus-uggioni-possamai-9690602a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
