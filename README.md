@@ -1,7 +1,8 @@
 ## Matheus Uggioni Possamai
 
-- 👩‍💻 Aluno no Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado à meus códigos de Linguagem de Programação, Lógica de Programação, etc.
+- Aluno no Curso Técnico em Informática no Colégio Cedup Abílio Paulo.
+- Perfil destinado à meus códigos.
+- 16 Anos, Criciúma - SC - Brasil.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-u-p&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-u-p&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
