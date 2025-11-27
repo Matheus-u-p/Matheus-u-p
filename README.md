@@ -1,11 +1,8 @@
 <!-- Banner -->
 # Olá! Eu sou o Matheus Uggioni Possamai
 ### Estudante do último ano do ensino médio 
-<img src="https://komarev.com/ghpvc/?username=Matheus-u-p&color=blue&style=for-the-badge" alt="profile views"/>
 
-
-
-## Sobre mim  
+ 
 - **17 anos**, cursando **Técnico em Informática** no CEDUP Abílio Paulo  
 - Criciúma — Santa Catarina  
 
