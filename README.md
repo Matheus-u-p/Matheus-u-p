@@ -8,7 +8,7 @@
 ## Onde me encontrar  
 
 <p align="left">
-  <a href="mailto:matheusupossamai20@gmail.com">
+  <a href="matheusupossamai20@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
