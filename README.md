@@ -2,9 +2,8 @@
 # Olá! Eu sou o Matheus Uggioni Possamai
 ### Estudante
 
-- **17 anos**
 - Formado em **Técnico em Informática** no CEDUP Abílio Paulo (2023-2025)
-- Cursando **Ciência da Computação** na UNESC Criciúma (2026-...)
+- Cursando **Ciência da Computação** na UNESC Criciúma (2026-2029)
 - Criciúma — Santa Catarina  
 
 ## Onde me encontrar  
